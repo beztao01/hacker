@@ -3,14 +3,16 @@
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+*Hacker es un tema de Jekyll para páginas de GitHub. Puede [obtener una vista previa del tema para ver cómo se ve](http://pages-themes.github.io/hacker), o incluso [usarlo hoy](#usage).*
 
 ![Thumbnail of Hacker](thumbnail.png)
 
-## Usage
+## Usage | Uso
 
 To use the Hacker theme:
+Para usar el tema Hacker:
 
-1. Add the following to your site's `_config.yml`:
+1. Add the following to your site's `_config.yml`:    1. Agregue lo siguiente al `_config.yml` de su sitio:
 
     ```yml
     remote_theme: pages-themes/hacker@v0.2.0
