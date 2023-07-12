@@ -3,6 +3,7 @@
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+
 *Hacker es un tema de Jekyll para páginas de GitHub. Puede [obtener una vista previa del tema para ver cómo se ve](http://pages-themes.github.io/hacker), o incluso [usarlo hoy](#usage).*
 
 ![Thumbnail of Hacker](thumbnail.png)
@@ -20,17 +21,18 @@ Para usar el tema Hacker:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`: Opcionalmente, si desea obtener una vista previa de su sitio en su computadora, agregue lo siguiente al `Gemfile` de su sitio:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing
+## Customizing | Personalización
 
-### Configuration variables
+### Configuration variables | Variables de configuración
 
 Hacker will respect the following variables, if set in your site's `_config.yml`:
+Hacker respetará las siguientes variables, si se configuran en `_config.yml` de su sitio:
 
 ```yml
 title: [The title of your site]
@@ -38,15 +40,18 @@ description: [A short description of your site's purpose]
 ```
 
 Additionally, you may choose to set the following optional variables:
+Además, puede optar por establecer las siguientes variables opcionales:
 
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
-### Stylesheet
+### Stylesheet | hoja de estilos
 
 If you'd like to add your own custom styles:
+Si desea agregar sus propios estilos personalizados:
+
 
 1. Create a file called `/assets/css/style.scss` in your site
 2. Add the following content to the top of the file, exactly as shown:
@@ -60,15 +65,20 @@ If you'd like to add your own custom styles:
 
 *Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-### Layouts
+### Layouts | Diseños
 
 If you'd like to change the theme's HTML layout:
+Si desea cambiar el diseño HTML del tema:
 
 1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/hacker/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html).
+
+
+Para algunos cambios, como un `favicon` personalizado, puede agregar archivos personalizados en su carpeta `_includes` local. Los archivos [proporcionados con el tema](https://github.com/pages-themes/hacker/tree/master/_includes) proporcionan un punto de partida y están incluidos en la [plantilla de diseño original](https://github. com/pages-themes/hacker/blob/master/_layouts/default.html).
+   
 2. For more extensive changes, [copy the original template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+4. Create a file called `/_layouts/default.html` in your site
+5. Paste the default layout content copied in the first step
+6. Customize the layout as you'd like
 
 ### Customizing Google Analytics code
 
