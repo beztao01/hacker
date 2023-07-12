@@ -1,4 +1,4 @@
-# The Hacker theme
+# The Hacker theme | El tema Hacker
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
@@ -11,9 +11,12 @@
 ## Usage | Uso
 
 To use the Hacker theme:
+
 Para usar el tema Hacker:
 
-1. Add the following to your site's `_config.yml`:    1. Agregue lo siguiente al `_config.yml` de su sitio:
+1. Add the following to your site's `_config.yml`:
+  
+1. Agregue lo siguiente al `_config.yml` de su sitio:
 
     ```yml
     remote_theme: pages-themes/hacker@v0.2.0
@@ -22,6 +25,8 @@ Para usar el tema Hacker:
     ```
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`: Opcionalmente, si desea obtener una vista previa de su sitio en su computadora, agregue lo siguiente al `Gemfile` de su sitio:
+
+2. Opcionalmente, si desea obtener una vista previa de su sitio en su computadora, agregue lo siguiente al `Gemfile` de su sitio: Opcionalmente, si desea obtener una vista previa de su sitio en su computadora, agregue lo siguiente al `Gemfile` de su sitio :
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
