@@ -102,6 +102,8 @@ end
 
 ![Ruby version](https://ibb.co/Bf74s5g)
 
+<a href="https://ibb.co/Bf74s5g"><img src="https://i.ibb.co/TwnKhxH/ruby01.png" alt="ruby01" border="0"></a>
+
 
 
 ### Definition lists can be used with HTML syntax.
