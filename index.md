@@ -108,6 +108,8 @@ Lo  primero que tenemos que hacer es ver si tenemos ruby en nuestro sistema con
 
 ```ruby
 ruby -v
+```
+
 
 ![ruby](https://i.ibb.co/TwnKhxH/ruby01.png)
 
