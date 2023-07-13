@@ -98,7 +98,10 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+![Ruby version](https://ibb.co/Bf74s5g)
+
 
 
 ### Definition lists can be used with HTML syntax.
