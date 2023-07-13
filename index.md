@@ -107,7 +107,10 @@ end
 Lo  primero que tenemos que hacer es ver si tenemos ruby en nuestro sistema con
 
 ```ruby
-ruby -v
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
 ```
 
 
