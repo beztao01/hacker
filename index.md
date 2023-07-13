@@ -104,12 +104,11 @@ end
 
 ## instalación de ruby
 
-Lo  primero que tenemos que hacer es ver si tenemos ruby en nuestro sistema con
+Lo  primero que tenemos que hacer es ver si tenemos ruby en nuestro sistema por consola con el siguiente comando:
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+# ver en consola
+  ruby -v
 end
 ```
 
