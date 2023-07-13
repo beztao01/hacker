@@ -102,7 +102,7 @@ end
 
 ![Ruby version](https://ibb.co/Bf74s5g)
 
-## instalación de ruby
+## Instalación de ruby
 
 Lo  primero que tenemos que hacer es ver si tenemos ruby en nuestro sistema por consola con el siguiente comando:
 
