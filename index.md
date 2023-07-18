@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Pagina 02] (./pagina 02.html).
+
+[Pagina 02](./pagina-02.md).
 
 [Link to another page](./another-page.html).
 
