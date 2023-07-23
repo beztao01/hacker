@@ -21,27 +21,27 @@ Este comando inicializa un repositorio, es una base de datos donde se van a guar
 Con este comando agregamos el archivo a la base de datos. y lo mandas al stage.
 
 ```bash
-$ git commit -m "Este es el primer commit"
+    $ git commit -m "Este es el primer commit"
 ```
 
 Este comando le manda el ultimo cambio a git, es decir que el archivo esta listo. 
 ```bash
-$ git add .
+    $ git add .
 ```
 
 Este comando le indica a git que agregue todos los archivos que sufrieron cambio. (hay que validar esta info)
 ```bash
-$ git status
+    $ git status
 ```
 
 Este comando nos muestra que archivos tienen cambios.
 ```bash
-$ git show
+    $ git show
 ```
 
 Este comando nos muestra de manera visual todos los cambios de manera histórica, cuando se hicieron y quienes lo hicieron.
 ```bash
-$ git log texto.txt
+    $ git log texto.txt
 ```
 
 Este comando nos permite ver los cambios historiocos de un archivo
