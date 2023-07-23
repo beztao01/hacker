@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Comando de GIT
+## Comandos de GIT
 
 Git es un sistema de control de versiones.
 
@@ -12,6 +12,29 @@ El primer comando que vamos a conocer es:
 
 Este comando inicializa un repositorio, es una base de datos donde se van a guardar todos los cambios que realices.
 
+`$ git add texto.txt`
+
+Con este comando agregamos el archivo a la base de datos. y lo mandas al stage.
+
+`$ git commit -m "Este es el primer commit"`
+
+Este comando le manda el ultimo cambio a git, es decir que el archivo esta listo. 
+
+`$ git add .`
+
+Este comando le indica a git que agregue todos los archivos que sufrieron cambio. (hay que validar esta info)
+
+`$ git status`
+
+Este comando nos muestra que archivos tienen cambios.
+
+`$ git show`
+
+Este comando nos muestra de manera visual todos los cambios de manera histórica, cuando se hicieron y quienes lo hicieron.
+
+`$ git log texto.txt`
+
+Este comando nos permite ver los cambios historiocos de un archivo
 
 _Beztao_
 
