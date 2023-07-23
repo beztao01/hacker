@@ -8,7 +8,7 @@ Git es un sistema de control de versiones.
 
 el primer comando que vamos a conocer es:
 
-` $ git init `
+`git init` 
 
 
 _Beztao_
