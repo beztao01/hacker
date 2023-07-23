@@ -8,11 +8,15 @@ Git es un sistema de control de versiones.
 
 El primer comando que vamos a conocer es:
 
-`$ git init` 
+```bash
+    $ git init 
+```
 
 Este comando inicializa un repositorio, es una base de datos donde se van a guardar todos los cambios que realices.
 
-`$ git add texto.txt`
+```bash
+    $ git add texto.txt
+```
 
 Con este comando agregamos el archivo a la base de datos. y lo mandas al stage.
 
