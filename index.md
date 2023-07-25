@@ -10,13 +10,13 @@ layout: default
 
 # ¿De qué se trata esto?
 
-Página con una serie de apuntes relacionados con temas de programacion.
+Página con una serie de apuntes relacionados con temas de programación.
 
-## Header 2
+
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+
 ```
 
 ```
