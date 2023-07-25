@@ -21,7 +21,7 @@ El comando listado arriba nos da el contenido del directorio raiz.
 ```bash
     $ ls --help
 ```
-Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos guiones más la palabra help o man más eñ comando.
+Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos guiones más la palabra help o man más el comando.
 
 ```bash
     $ pwd 
