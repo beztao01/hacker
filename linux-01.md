@@ -27,3 +27,5 @@ Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos gui
     $ pwd 
 ```
 Muestra la ruta
+
+:bulb: si necesitas agregar ~ se usa Alt + 126
