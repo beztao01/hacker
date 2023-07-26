@@ -38,4 +38,10 @@ Muestra la información del archivo
 ```
 Muestra la historia del archivo
 
+```bash
+    $ git branch -M main
+```
+
+*git branch* Nos ayuda a crear una nueva rama dentro de nuestro repositorio 
+
 :bulb: si necesitas agregar ~ se usa Alt + 126
