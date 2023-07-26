@@ -45,3 +45,7 @@ Muestra la historia del archivo
 *git branch* Nos ayuda a crear una nueva rama dentro de nuestro repositorio 
 
 :bulb: si necesitas agregar ~ se usa Alt + 126
+
+_Beztao_
+
+[back](./)
