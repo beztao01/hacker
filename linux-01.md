@@ -28,4 +28,14 @@ Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos gui
 ```
 Muestra la ruta
 
+```bash
+    $ cat 
+```
+Muestra la información del archivo
+
+```bash
+    $ log arhivo.txt 
+```
+Muestra la historia del archivo
+
 :bulb: si necesitas agregar ~ se usa Alt + 126
