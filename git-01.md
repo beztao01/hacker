@@ -40,11 +40,24 @@ Este comando nos muestra que archivos tienen cambios.
 ```
 
 Este comando nos muestra de manera visual todos los cambios de manera histórica, cuando se hicieron y quienes lo hicieron.
+
 ```bash
     $ git log texto.txt
 ```
 
-Este comando nos permite ver los cambios historiocos de un archivo
+Este comando nos permite ver los cambios historiocos de un archivo.
+
+```bash
+    $ git checkout
+```
+
+Cambiar ramas o restaurar archivos del árbol de trabajo
+
+```bash
+    $ git diff numero de commit numero de commit
+```
+
+Este comando te permite comparar un commir con otro commit
 
 _Beztao_
 
