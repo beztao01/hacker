@@ -24,12 +24,12 @@ Con este comando agregamos el archivo a la base de datos. y lo mandas al stage.
     $ git commit -m "Este es el primer commit"
 ```
 
-Este comando le manda el ultimo cambio a git, es decir que el archivo esta listo. 
+Este comando le manda el último cambio a git, es decir que el archivo esta listo. 
 ```bash
     $ git add .
 ```
 
-Este comando le indica a git que agregue todos los archivos que sufrieron cambio. (hay que validar esta info)
+Este comando le indica a git que agregue todos los archivos que sufrieron cambio. 
 ```bash
     $ git status
 ```
@@ -45,7 +45,7 @@ Este comando nos muestra de manera visual todos los cambios de manera histórica
     $ git log texto.txt
 ```
 
-Este comando nos permite ver los cambios historiocos de un archivo.
+Este comando nos permite ver los cambios historicos de un archivo.
 
 ```bash
     $ git checkout
@@ -57,7 +57,7 @@ Cambiar ramas o restaurar archivos del árbol de trabajo
     $ git diff numero de commit numero de commit
 ```
 
-Este comando te permite comparar un commir con otro commit
+Este comando te permite comparar un commit con otro commit
 
 _Beztao_
 

@@ -4,7 +4,7 @@ layout: default
 
 # Comandos de Linux
 
-Veremos algunos de los comandos basicos de la terminal de linux.
+Veremos algunos de los comandos básicos de la terminal de linux.
 
 El primer comando que vamos a conocer es:
 
@@ -26,25 +26,25 @@ Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos gui
 ```bash
     $ pwd 
 ```
-Muestra la ruta
+Muestra la ruta.
 
 ```bash
     $ cat 
 ```
-Muestra la información del archivo
+Muestra la información del archivo.
 
 ```bash
     $ log arhivo.txt 
 ```
-Muestra la historia del archivo
+Muestra la historia del archivo.
 
 ```bash
     $ git branch -M main
 ```
 
-*git branch* Nos ayuda a crear una nueva rama dentro de nuestro repositorio 
+*git branch* Nos ayuda a crear una nueva rama dentro de nuestro repositorio. 
 
-:bulb: si necesitas agregar ~ se usa Alt + 126
+ si necesitas agregar ~ se usa Alt + 126 :bulb:
 
 _Beztao_
 
