@@ -8,6 +8,8 @@ layout: default
 
 [Apuntes de VIM](./vim-01.md).
 
+[Apuntes de Node NPM ThreeJS](./node-01.md).
+
 
 
 # ¿De qué se trata esto?
@@ -20,5 +22,5 @@ Página con una serie de apuntes relacionados con temas de programación.
 
 
 ```
-The final element.
+Este es el final de los elementos.
 ```
