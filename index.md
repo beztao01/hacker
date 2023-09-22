@@ -16,7 +16,7 @@ layout: default
 
 # ¿De qué se trata esto?
 
-P&acute;gina con una serie de apuntes relacionados con temas de programación.
+P&aacute;gina con una serie de apuntes relacionados con temas de programación.
 
 
 
