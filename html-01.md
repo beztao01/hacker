@@ -7,12 +7,12 @@ layout: default
 Veremos algunos etiquetas b&acute;sicas de html
 Esto esta en construcci&oacute;n:
 
-```html
+```html:
     <!doctype>
 ```
 Indica la version de HTML.
 
-```html
+```html:
     <html>
 ```
 Es la raiz del archivo
