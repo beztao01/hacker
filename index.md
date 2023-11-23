@@ -10,7 +10,7 @@ layout: default
 
 [Apuntes de Node NPM ThreeJS](./node-01.md).
 
-[Apuntes de HTML] (./html-01.md).
+[Apuntes de HTML](./html-01.md).
 
 [Hola mundo](./node-01.md).
 
