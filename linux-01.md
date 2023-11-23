@@ -8,67 +8,67 @@ Veremos algunos de los comandos básicos de la terminal de linux.
 
 El primer comando que vamos a conocer es:
 
-```bash
+```bash:
     $ ls
 ```
 El comando listado arriba nos permite ver todos los archivos o directorios en el directorio actual.
 
-```bash
+```bash:
     $ ls /
 ```
 El comando listado arriba nos da el contenido del directorio raiz.
 
-```bash
+```bash:
     $ ls --help
 ```
 Si olvidas los argumentos a usar en algun comando puedes ayudarte de los dos guiones más la palabra help o man más el comando.
 
-```bash
+```bash:
     $ ls -al 
 ```
 lista los archivos, con - le pasamos argumentos "a", muestra los archivos ocultos y "l" en una lista.
 
-```bash
+```bash:
     $ mkdir 
 ```
 Crea un directorio
 
-```bash
+```bash:
     $ cd /mnt/d 
 ```
 Este comando nos sirve para cambiarnos de unidad en este caso la unidad d
 
-```bash
+```bash:
     $ pwd 
 ```
 Muestra la ruta.
 
-```bash
+```bash:
     $ cat 
 ```
 Muestra la información del archivo.
 
-```bash
+```bash:
     $ log arhivo.txt 
 ```
 Muestra la historia del archivo.
 
-```bash
+```bash:
     $ history
 ```
 Muestra lista de comandos usados
 
-```bash
+```bash:
     $ !70
 ```
 Invoca el comando que se encuentra en el listado, en este caso el 70.
 
-```bash
+```bash:
     $ clear
 ```
 Limpia la consola. también se puede usar CTRL+L, CMD+L en mac
 
-```bash
+```bash:
     $ git branch -M main
 ```
 
