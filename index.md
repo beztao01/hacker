@@ -12,7 +12,8 @@ layout: default
 
 [Apuntes de HTML](./html-01.md).
 
-[Hola mundo](./node-01.md).
+[Apuntes de GitHub](./html-01.md).
+<!--[NPM](./node-01.md). -->
 
 <!---[Apuntes de Ruby on rails]  --->
 

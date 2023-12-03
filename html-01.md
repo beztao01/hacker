@@ -4,7 +4,7 @@ layout: default
 
 # Etiquetas html
 
-Veremos algunos etiquetas b&acute;sicas de html
+Veremos algunos etiquetas b&aacute;sicas de html
 Esto esta en construcci&oacute;n:
 
 ```html:
