@@ -12,7 +12,7 @@ layout: default
 
 [Apuntes de HTML](./html-01.md).
 
-[Apuntes de Bootsrap](./boostrap-01.md).
+[Apuntes de Bootstrap](./bootstrap-01.md).
 <!--[NPM](./node-01.md). -->
 
 <!---[Apuntes de Ruby on rails]  --->
