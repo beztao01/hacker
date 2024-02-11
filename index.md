@@ -1,6 +1,7 @@
 ---
 layout: default
 ---}
+
 [Apuntes de VSC con tema Cobalt2](./cobalt01.md).
 
 [Apuntes de Git](./git-01.md).
