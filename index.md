@@ -1,6 +1,6 @@
 ---
 layout: default
----}
+---
 
 [Apuntes de VSC con tema Cobalt2](./cobalt01.md).
 
