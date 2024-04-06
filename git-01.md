@@ -59,6 +59,6 @@ Cambiar ramas o restaurar archivos del árbol de trabajo
 
 Este comando te permite comparar un commit con otro commit
 
-_Beztao_
+_FSL_
 
 [back](./)
