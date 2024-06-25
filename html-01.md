@@ -18,6 +18,8 @@ Indica la version de HTML.
 Es la raiz del archivo
 y nos faltan muchas más.
 
+![alt text](selectores.png)
+
 _FSL_
 
 [back](./)
