@@ -59,6 +59,13 @@ Cambiar ramas o restaurar archivos del árbol de trabajo
 
 Este comando te permite comparar un commit con otro commit
 
+```bash:
+    $ git remote add origin URL
+```
+
+Este comando te permite conectar tu nuestro repositorio local con el remoto
+
+
 _FSL_
 
 [back](./)
